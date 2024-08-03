@@ -12,7 +12,7 @@ Hi, I’m @hajjanreshma!
 
 
 ## Let's Connect
-[![LinkedIn](www.linkedin.com/in/hajjan-reshma-mansoori-36bb87244)
+[![LinkedIn](www.linkedin.com/in/hajjan-reshma-mansoori)
 
 <!---
 hajjanreshma/hajjanreshma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
