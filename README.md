@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hajjanreshma
-- 👀 I’m interested in web development, machine learning, open-source projects.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on open-source projects, innovative tech solutions
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I love turning everyday objects into art pieces!
+Hi, I’m @hajjanreshma!
+👀 I’m passionate about web development, computer vision, and open-source projects.
+🌱 Currently exploring computer vision and image processing with OpenCV.
+💞️ Open to collaborating on innovative tech solutions and creative open-source projects.
+📫 Feel free to connect with me on LinkedIn for any opportunities or collaborations.
+😄 Pronouns: she/her
+⚡ Fun fact: I love transforming everyday objects into unique art pieces, blending technology and creativity!
 
 
 ## My GitHub Stats
